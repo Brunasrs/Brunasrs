@@ -29,20 +29,19 @@ Tenho compromisso com aprendizado contínuo, atenção aos detalhes e responsabi
 - React.js (em aprendizado)  
 - Git e GitHub  
 - Metodologias ágeis (Scrum – básico)  
-- VS Code, Chrome DevTools
+- VS Code
 
 ---
 
-## 📁 Projetos
+## 🚀 Projetos
 
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Portfólio Pessoal](#) | Site institucional com informações profissionais e projetos | HTML, CSS, JS |
-| [To-Do List](#) | Lista de tarefas interativa com persistência local | JavaScript, DOM |
-| [Site Responsivo](#) | Layout adaptável para mobile e desktop | HTML, CSS, Flexbox |
-| [Em desenvolvimento] Projeto em React | Aplicação SPA com componentes reutilizáveis | React.js |
-
-> *Links serão atualizados conforme os repositórios forem publicados*
+|---------|-----------|-------------|
+| [Brunasrs.github.io](https://github.com/Brunasrs/Brunasrs.github.io) | Portfólio pessoal de teste com informações fictícias | HTML, CSS |
+| [Exemplo-de-interface](https://github.com/Brunasrs/Exemplo-de-interface) | Interface de exemplo para site de uma empresa de seguros | HTML, CSS |
+| [Brunasrs](https://github.com/Brunasrs/Brunasrs) | Repositório de configuração do meu perfil no GitHub (README) | Markdown |
+| [Projeto-Bikcraft](https://github.com/Brunasrs/Teste-Projeto-Bikcraft) | Projeto desenvolvido em aula com professor (Origamid) | HTML, CSS |
+| [Bikcraft](https://github.com/Brunasrs/bikcraft) | Projeto final do curso *HTML e CSS para Iniciantes* (Origamid) | HTML, CSS |
 
 ---
 
